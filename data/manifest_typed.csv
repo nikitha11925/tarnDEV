@@ -1,0 +1,8 @@
+page_id,image,truth_file
+Sample1,data/ocr_typed_images/Sample1.png,data/ocr_typed_images/truth/Sample1.txt
+Sample2,data/ocr_typed_images/Sample2.png,data/ocr_typed_images/truth/Sample2.txt
+Sample3,data/ocr_typed_images/Sample3.png,data/ocr_typed_images/truth/Sample3.txt
+samle4,data/ocr_typed_images/samle4.jpg,data/ocr_typed_images/truth/samle4.txt
+Sample5,data/ocr_typed_images/Sample5.jpg,data/ocr_typed_images/truth/Sample5.txt
+Sample6,data/ocr_typed_images/Sample6.jpg,data/ocr_typed_images/truth/Sample6.txt
+Sample7,data/ocr_typed_images/Sample7.png,data/ocr_typed_images/truth/Sample7.txt

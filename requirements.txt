@@ -1,0 +1,14 @@
+# Phase 1 base. Model-specific packages are added per candidate in Phase 2/3.
+numpy
+opencv-python
+scikit-image
+scikit-learn
+pillow
+pandas
+jiwer            # CER / WER
+transformers
+accelerate
+bitsandbytes
+huggingface_hub
+qwen-vl-utils
+pymupdf

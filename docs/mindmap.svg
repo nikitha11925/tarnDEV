@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 960" width="1400" height="960"><rect width="1400" height="960" fill="#ffffff"/><path d="M810 480 C830.0 480 830.0 170 850 170" fill="none" stroke="#2563eb" stroke-width="3" opacity="0.85"/>
+<path d="M1010 170 C1030.0 170 1030.0 101.0 1050 101.0" fill="none" stroke="#2563eb" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="83.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#2563eb" stroke-width="1.4"/>
+<text x="1215.0" y="105.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Now: quality of OCR (evaluate 2-3 models)</text>
+<path d="M1010 170 C1030.0 170 1030.0 147.0 1050 147.0" fill="none" stroke="#2563eb" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="129.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#2563eb" stroke-width="1.4"/>
+<text x="1215.0" y="151.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Later: visual completeness (architecture only)</text>
+<path d="M1010 170 C1030.0 170 1030.0 193.0 1050 193.0" fill="none" stroke="#2563eb" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="175.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#2563eb" stroke-width="1.4"/>
+<text x="1215.0" y="197.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Manager's other specs: quality gate, cleanup</text>
+<path d="M1010 170 C1030.0 170 1030.0 239.0 1050 239.0" fill="none" stroke="#2563eb" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="221.0" width="330" height="36" rx="8" fill="#fffbeb" stroke="#d97706" stroke-width="1.4" stroke-dasharray="5 4"/>
+<circle cx="1068" cy="239.0" r="10" fill="#d97706"/>
+<text x="1068" y="244.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">?</text>
+<text x="1086" y="243.0" font-size="11.5" font-weight="normal" fill="#92400e" text-anchor="start" font-family="Arial, Helvetica, sans-serif">What does QOOCE stand for?</text>
+<rect x="850" y="148" width="160" height="44" rx="22" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="930.0" y="175" font-size="12.5" font-weight="bold" fill="#2563eb" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">GOAL</text>
+<path d="M810 480 C830.0 480 830.0 480 850 480" fill="none" stroke="#047857" stroke-width="3" opacity="0.85"/>
+<path d="M1010 480 C1030.0 480 1030.0 388.0 1050 388.0" fill="none" stroke="#047857" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="370.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#047857" stroke-width="1.4"/>
+<text x="1215.0" y="392.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">9 booklets: phone photos, handwritten</text>
+<path d="M1010 480 C1030.0 480 1030.0 434.0 1050 434.0" fill="none" stroke="#047857" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="416.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#047857" stroke-width="1.4"/>
+<text x="1215.0" y="438.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Printed admission ticket: USN, name, semester</text>
+<path d="M1010 480 C1030.0 480 1030.0 480.0 1050 480.0" fill="none" stroke="#047857" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="462.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#047857" stroke-width="1.4"/>
+<text x="1215.0" y="484.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Question papers (2) + answer keys (4)</text>
+<path d="M1010 480 C1030.0 480 1030.0 526.0 1050 526.0" fill="none" stroke="#047857" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="508.0" width="330" height="36" rx="8" fill="#fffbeb" stroke="#d97706" stroke-width="1.4" stroke-dasharray="5 4"/>
+<circle cx="1068" cy="526.0" r="10" fill="#d97706"/>
+<text x="1068" y="531.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">?</text>
+<text x="1086" y="530.0" font-size="11.5" font-weight="normal" fill="#92400e" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Can student data leave the college?</text>
+<path d="M1010 480 C1030.0 480 1030.0 572.0 1050 572.0" fill="none" stroke="#047857" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="554.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#047857" stroke-width="1.4"/>
+<text x="1215.0" y="576.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Next: 6-8 pages typed as ground truth</text>
+<rect x="850" y="458" width="160" height="44" rx="22" fill="#d1fae5" stroke="#047857" stroke-width="2"/>
+<text x="930.0" y="485" font-size="12.5" font-weight="bold" fill="#047857" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">DATA</text>
+<path d="M810 480 C830.0 480 830.0 790 850 790" fill="none" stroke="#7c3aed" stroke-width="3" opacity="0.85"/>
+<path d="M1010 790 C1030.0 790 1030.0 698.0 1050 698.0" fill="none" stroke="#7c3aed" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="680.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#7c3aed" stroke-width="1.4"/>
+<text x="1215.0" y="702.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Qwen3-VL 2B / 4B  (Apache-2.0)</text>
+<path d="M1010 790 C1030.0 790 1030.0 744.0 1050 744.0" fill="none" stroke="#7c3aed" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="726.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#7c3aed" stroke-width="1.4"/>
+<text x="1215.0" y="748.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">PaddleOCR-VL  (Apache-2.0)</text>
+<path d="M1010 790 C1030.0 790 1030.0 790.0 1050 790.0" fill="none" stroke="#7c3aed" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="772.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#7c3aed" stroke-width="1.4"/>
+<text x="1215.0" y="794.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">GLM-OCR  (MIT)</text>
+<path d="M1010 790 C1030.0 790 1030.0 836.0 1050 836.0" fill="none" stroke="#7c3aed" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="818.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#7c3aed" stroke-width="1.4"/>
+<text x="1215.0" y="840.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">TrOCR as second reader  (MIT, lines only)</text>
+<path d="M1010 790 C1030.0 790 1030.0 882.0 1050 882.0" fill="none" stroke="#7c3aed" stroke-width="1.6" opacity="0.85"/>
+<rect x="1050" y="864.0" width="330" height="36" rx="8" fill="#fffbeb" stroke="#d97706" stroke-width="1.4" stroke-dasharray="5 4"/>
+<circle cx="1068" cy="882.0" r="10" fill="#d97706"/>
+<text x="1068" y="887.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">?</text>
+<text x="1086" y="886.0" font-size="11.5" font-weight="normal" fill="#92400e" text-anchor="start" font-family="Arial, Helvetica, sans-serif">English handwriting only, or other languages?</text>
+<rect x="850" y="768" width="160" height="44" rx="22" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="930.0" y="795" font-size="12.5" font-weight="bold" fill="#7c3aed" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">MODELS TO TEST</text>
+<path d="M590 480 C570.0 480 570.0 170 550 170" fill="none" stroke="#b45309" stroke-width="3" opacity="0.85"/>
+<path d="M390 170 C370.0 170 370.0 78.0 350 78.0" fill="none" stroke="#b45309" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="60.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#b45309" stroke-width="1.4"/>
+<text x="185.0" y="82.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Accuracy: CER, WER, insertion rate</text>
+<path d="M390 170 C370.0 170 370.0 124.0 350 124.0" fill="none" stroke="#b45309" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="106.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#b45309" stroke-width="1.4"/>
+<text x="185.0" y="128.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Latency: seconds per page</text>
+<path d="M390 170 C370.0 170 370.0 170.0 350 170.0" fill="none" stroke="#b45309" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="152.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#b45309" stroke-width="1.4"/>
+<text x="185.0" y="174.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">GPU memory (this laptop: 6 GB)</text>
+<path d="M390 170 C370.0 170 370.0 216.0 350 216.0" fill="none" stroke="#b45309" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="198.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#b45309" stroke-width="1.4"/>
+<text x="185.0" y="220.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Licence, maintenance, 5-10 year fit</text>
+<path d="M390 170 C370.0 170 370.0 262.0 350 262.0" fill="none" stroke="#b45309" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="244.0" width="330" height="36" rx="8" fill="#fffbeb" stroke="#d97706" stroke-width="1.4" stroke-dasharray="5 4"/>
+<circle cx="38" cy="262.0" r="10" fill="#d97706"/>
+<text x="38" y="267.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">?</text>
+<text x="56" y="266.0" font-size="11.5" font-weight="normal" fill="#92400e" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Latency target / pages per day?</text>
+<rect x="390" y="148" width="160" height="44" rx="22" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+<text x="470.0" y="175" font-size="12.5" font-weight="bold" fill="#b45309" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">METRICS</text>
+<path d="M590 480 C570.0 480 570.0 480 550 480" fill="none" stroke="#0f766e" stroke-width="3" opacity="0.85"/>
+<path d="M390 480 C370.0 480 370.0 388.0 350 388.0" fill="none" stroke="#0f766e" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="370.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#0f766e" stroke-width="1.4"/>
+<text x="185.0" y="392.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">1. Free pretrained model, zero-shot first</text>
+<path d="M390 480 C370.0 480 370.0 434.0 350 434.0" fill="none" stroke="#0f766e" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="416.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#0f766e" stroke-width="1.4"/>
+<text x="185.0" y="438.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">2. LoRA fine-tune on our own pages if needed</text>
+<path d="M390 480 C370.0 480 370.0 480.0 350 480.0" fill="none" stroke="#0f766e" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="462.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#0f766e" stroke-width="1.4"/>
+<text x="185.0" y="484.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">3. Paid API only as a quality ceiling</text>
+<path d="M390 480 C370.0 480 370.0 526.0 350 526.0" fill="none" stroke="#0f766e" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="508.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#0f766e" stroke-width="1.4"/>
+<text x="185.0" y="530.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Never train from scratch</text>
+<path d="M390 480 C370.0 480 370.0 572.0 350 572.0" fill="none" stroke="#0f766e" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="554.0" width="330" height="36" rx="8" fill="#fffbeb" stroke="#d97706" stroke-width="1.4" stroke-dasharray="5 4"/>
+<circle cx="38" cy="572.0" r="10" fill="#d97706"/>
+<text x="38" y="577.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">?</text>
+<text x="56" y="576.0" font-size="11.5" font-weight="normal" fill="#92400e" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Is any paid or cloud API allowed at all?</text>
+<rect x="390" y="458" width="160" height="44" rx="22" fill="#ccfbf1" stroke="#0f766e" stroke-width="2"/>
+<text x="470.0" y="485" font-size="12.5" font-weight="bold" fill="#0f766e" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">BUILD vs BUY</text>
+<path d="M590 480 C570.0 480 570.0 790 550 790" fill="none" stroke="#b91c1c" stroke-width="3" opacity="0.85"/>
+<path d="M390 790 C370.0 790 370.0 698.0 350 698.0" fill="none" stroke="#b91c1c" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="680.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#b91c1c" stroke-width="1.4"/>
+<text x="185.0" y="702.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Find every text block on the page</text>
+<path d="M390 790 C370.0 790 370.0 744.0 350 744.0" fill="none" stroke="#b91c1c" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="726.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#b91c1c" stroke-width="1.4"/>
+<text x="185.0" y="748.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Put each block in the right section / question</text>
+<path d="M390 790 C370.0 790 370.0 790.0 350 790.0" fill="none" stroke="#b91c1c" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="772.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#b91c1c" stroke-width="1.4"/>
+<text x="185.0" y="794.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Ignore shadows, ruled lines, binder edge</text>
+<path d="M390 790 C370.0 790 370.0 836.0 350 836.0" fill="none" stroke="#b91c1c" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="818.0" width="330" height="36" rx="8" fill="#ffffff" stroke="#b91c1c" stroke-width="1.4"/>
+<text x="185.0" y="840.0" font-size="11.5" font-weight="normal" fill="#1f2937" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Link USN, name, semester to a student record</text>
+<path d="M390 790 C370.0 790 370.0 882.0 350 882.0" fill="none" stroke="#b91c1c" stroke-width="1.6" opacity="0.85"/>
+<rect x="20" y="864.0" width="330" height="36" rx="8" fill="#fffbeb" stroke="#d97706" stroke-width="1.4" stroke-dasharray="5 4"/>
+<circle cx="38" cy="882.0" r="10" fill="#d97706"/>
+<text x="38" y="887.0" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">?</text>
+<text x="56" y="886.0" font-size="11.5" font-weight="normal" fill="#92400e" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Manager's exact meaning (not a standard term)</text>
+<rect x="390" y="768" width="160" height="44" rx="22" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+<text x="470.0" y="795" font-size="11" font-weight="bold" fill="#b91c1c" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">VISUAL COMPLETENESS</text>
+<rect x="590" y="436" width="220" height="88" rx="44" fill="#1f2937"/>
+<text x="700" y="472" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">Answer paper</text>
+<text x="700" y="492" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">validation</text>
+<text x="700" y="511" font-size="11" font-weight="normal" fill="#d1d5db" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">model evaluation</text>
+<text x="20" y="28" font-size="16" font-weight="bold" fill="#1f2937" text-anchor="start" font-family="Arial, Helvetica, sans-serif">Mind map: what we are evaluating, with the open questions marked</text>
+<circle cx="22" cy="926" r="9" fill="#d97706"/>
+<text x="22" y="931" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">?</text>
+<text x="40" y="931" font-size="12" font-weight="normal" fill="#92400e" text-anchor="start" font-family="Arial, Helvetica, sans-serif">= open question, needs an answer from you or the manager</text></svg>

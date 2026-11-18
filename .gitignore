@@ -1,0 +1,6 @@
+data/raw/
+data/roster.csv
+results/
+__pycache__/
+.venv/
+.cache/

@@ -1,0 +1,18 @@
+andriod run
+compile
+time
+classes. dex. Jave. bytecode. Dalvic./ART
+manifest. XML.
+res
+Resources.
+assets
+Lib
+meta-info
+Unity c# sharp
+configuration
+Source file Registered compile
+precompiled resources XMLIN
+by files
+So arm 86 32/64
+apk signing doc
+Unity c#

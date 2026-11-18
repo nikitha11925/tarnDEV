@@ -1,0 +1,17 @@
+page_id,image,truth_file
+Sample1,data/ocr_typed_images/Sample1.png,data/ocr_typed_images/truth/Sample1.txt
+Sample2,data/ocr_typed_images/Sample2.png,data/ocr_typed_images/truth/Sample2.txt
+Sample3,data/ocr_typed_images/Sample3.png,data/ocr_typed_images/truth/Sample3.txt
+samle4,data/ocr_typed_images/samle4.jpg,data/ocr_typed_images/truth/samle4.txt
+Sample5,data/ocr_typed_images/Sample5.jpg,data/ocr_typed_images/truth/Sample5.txt
+Sample6,data/ocr_typed_images/Sample6.jpg,data/ocr_typed_images/truth/Sample6.txt
+Sample7,data/ocr_typed_images/Sample7.png,data/ocr_typed_images/truth/Sample7.txt
+booklet1_p02,data/raw/17NC301 - IPR - Student Answer Booklet 1/p02.png,
+booklet2_p02,data/raw/17NC301 - IPR - Student Answer Booklet 2/p02.png,
+booklet3_p02,data/raw/19AU0003 - Constitution of India and Human Rights - Student Answer Booklet 1/p02.png,
+booklet4_p02,data/raw/19AU0003 - Constitution of India and Human Rights - Student Answer Booklet 2/p02.png,
+booklet5_p02,data/raw/Assignment 1 Student Answer Booklet 1/p02.png,
+booklet6_p02,data/raw/Assignment 1 Student Answer Booklet 2/p02.png,
+booklet7_p02,data/raw/Assignment 2 Student Answer Booklet 1/p02.png,
+booklet8_p02,data/raw/Assignment 2 Student Answer Booklet 2/p02.png,
+booklet9_p02,data/raw/Assignment 2 Student Answer Booklet 3/p02.png,
